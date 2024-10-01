@@ -1,1 +1,0 @@
-https://libc.rip/
