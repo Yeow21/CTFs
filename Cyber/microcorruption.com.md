@@ -1,0 +1,2 @@
+
+{"cpu":"msp.nUXk1jJHHtAAWSJ4wr5LhjGHRwugcw3KccqiyPdXsd4=","solutions":"[{\"level_id\":1,\"input\":\"70617373776f7264;\"},{\"level_id\":2,\"input\":\"4e49514b51622c;\"},{\"level_id\":3,\"input\":\"21532a6e413a436b;\"}]"}
